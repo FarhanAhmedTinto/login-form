@@ -1,0 +1,43 @@
+p{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+   
+}
+form{
+    text-align: center;
+   
+}
+fieldset{
+    text-align: left;
+    border-color: beige;
+
+}
+button{
+    color: white;
+    background-color: rgb(92, 220, 33);
+    width: 220px;
+    height: 43px;
+    border-radius: 07px;
+    border-color: white;
+    
+    
+}
+input{
+    background-color: white;
+    width: 211px;
+    height: 36px;
+    border-radius: 06px;
+    border-color: black;
+    
+   
+}
+textarea{
+    border-color: black;
+}
